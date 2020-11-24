@@ -1,17 +1,5 @@
-# smart-door-cchw2
-cchw2-smart-door
+# Movie_Recommend_System
 
-# 1. MEMBER Name
-Name: Jiahui Wang NetId: jw6273
-Name: Ruinan Zhang NetId: rz1109
-Name: Wei Si NetId: ws1623
-
-# 2. S3 BUCKET LINK
-webpage1 for owners:
-http://hw2-gate-door-owners.s3-website-us-east-1
-.amazonaws.com/
-webpage 2 for visitors:
-http://hw2-gate-door-visitors.s3-website-us-east-1
-.amazonaws.com/
+Build a web application that using technology includes: Kafka and Spark streaming as the message buffer, mongoDB as the movies database, and redis as cache database, elasticsearch as search engine. Users can choose the preference and the application will automatically find out the movies match it.
 
 
